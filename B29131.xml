@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules and orders of the Court of Exchequer</title>
+            <title>Rules, etc.</title>
+            <author>England and Wales. Court of Exchequer.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29131</idno><idno type="EEBO-CITATION">99829239</idno>
+  <idno type="VID">207745</idno>
+  <idno type="EEBO-PROQUEST">2264214035</idno>
+  
+            <idno type="STC">Wing R2251B</idno>
+            <idno type="PROQUEST">99829239</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829239e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1938:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules and orders of the Court of Exchequer</title>
+                  <title>Rules, etc.</title>
+                  <author>England and Wales. Court of Exchequer.</author>
+               </titleStmt>
+               <extent>[2], 56, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the assigns of Richard and Edward Atkins esquires, for John Walthoe, and are to be sold at his shop, in the Middle-Temple Cloysters,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With two final advertisement leaves.</note>
+                  <note>Caption title on p. 1 reads in part: Orders and rules of proceedings in the office of His Majesty's Remembrancer of His Court of Exchequer at Westminster.</note>
+                  <note>Running title: Orders and rules in the Exchequer.</note>
+                  <note>Also issued as part of: Ordines cancellariæ, being orders of the High Court of Chancery, from the first year of King Charles I, to this present Hillary term, 1697.</note>
+                  <note>Reproduction of the original in the Harvard University Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of Exchequer --  Rules and practices --  Early works to 1800.</term>
+               <term type="topical_term">Court rules --  England --  Early works to 1800.</term>
+               <term type="topical_term">Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207745:1"/>
+            <pb facs="tcp:207745:1"/>
+            <p>THE RULES AND ORDERS OF THE COURT OF EXCHEQUER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>Richard</hi> and <hi>Edward Atkins</hi> Esquires, for <hi>John Walthoe,</hi> and are to be sold at his Shop, in the <hi>Middle-Temple Cloy<g ref="char:EOLhyphen"/>sters,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207745:2"/>
+            <pb n="1" facs="tcp:207745:2"/>
+            <head>ORDERS and RƲLES of Proceedings in the Office of His Majesty's Remem<g ref="char:EOLhyphen"/>brancer of His Court of <hi>Exchequer</hi> at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> which the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Chief Baron, and the other Ba<g ref="char:EOLhyphen"/>rons have thought fit at present to Ordain, and Pub<g ref="char:EOLhyphen"/>lish, for the better and more speedy carrying on the Business in that Office.</head>
+            <div n="1" type="rules">
+               <head>I. <hi>English Bills.</hi>
+               </head>
+               <p>EVery <hi>Subpoena</hi> to Answer, Rejoin, or hear Judgment, shall be served Personally, or left at the Defendants Dwel<g ref="char:EOLhyphen"/>ling-House, or place of Residence
+<pb n="2" facs="tcp:207745:3"/>with one of that Family; or otherwise the same Writ, under Seal, shall be shewed there, to such Person of such Family, and a Ticket thereof left with such person, containing the effect of the same Writ: And all such Tickets upon a <hi>Subpoena</hi> to An<g ref="char:EOLhyphen"/>swer, shall be written in the Ex<g ref="char:EOLhyphen"/>chequer hand in Parchment.</p>
+            </div>
+            <div n="2" type="rules">
+               <head>II. <hi>Filing of Bills.</hi>
+               </head>
+               <p>EVery Bill upon a <hi>Subpoena</hi> retornable immediate, is to be filed before the said issuing of the said Writ, and upon a <hi>Subpoena</hi> retornable on a day certain, the Bill to be filed with<g ref="char:EOLhyphen"/>in two days after the day of the Retorn; and all others on com<g ref="char:EOLhyphen"/>mon Retorns, to be filed within four days after the last day of such Retorn. If the Defendants do appear according to the re<g ref="char:EOLhyphen"/>spective
+<pb n="3" facs="tcp:207745:3"/>Retorns of the Writs: And if the Bill be not Exhibi<g ref="char:EOLhyphen"/>ted accordingly, then the De<g ref="char:EOLhyphen"/>fendant to be dismissed with four Nobles Costs.</p>
+            </div>
+            <div n="3" type="rules">
+               <head>III. <hi>The day to be set down of the filing of every Bill, Plea, De<g ref="char:EOLhyphen"/>murrer, Exception, Replication, and Rejoinder.</hi>
+               </head>
+               <p>THe day of Exhibiting of every Bill, and the put<g ref="char:EOLhyphen"/>ting in of all Pleas, Demurrers, Exceptions, Replications and Re<g ref="char:EOLhyphen"/>joinders, to be set upon the same, and to be then signed by the Attorney that is towards the same; and likewise the day of every Defendants appearance entred in the Book of Appea<g ref="char:EOLhyphen"/>rances, and no Bill to be accept<g ref="char:EOLhyphen"/>ed till the same be signed by the Attorney for the Plaintiff, and allowed by one of the Ba<g ref="char:EOLhyphen"/>rons,
+<pb n="4" facs="tcp:207745:4"/>except at the Suit of His Majesty's Attorney General.</p>
+            </div>
+            <div n="4" type="rules">
+               <head>IV. <hi>Times of Appearances upon Sub<g ref="char:EOLhyphen"/>poena's.</hi>
+               </head>
+               <p>IF the Defendant do not appear on the next day after ser<g ref="char:EOLhyphen"/>vice of Process retornable Imme<g ref="char:EOLhyphen"/>diate, or on the second day, on Process retornable on a day certain, or on the fourth day of every Common Retorn; then upon Oath of due Service an Attachment is to be awarded; and all Affidavits to be made in <hi>London</hi> or <hi>Middlesex,</hi> and before any of the Barons, be written in Exchequer hand in Parchment.</p>
+            </div>
+            <div n="5" type="rules">
+               <pb n="5" facs="tcp:207745:4"/>
+               <head>V. <hi>Touching Contempts.</hi>
+               </head>
+               <p>THat after an Attachment is retorned for a Contempt by English Bill, the next Process shall be an Attachment with Proclamation, and upon the re<g ref="char:EOLhyphen"/>torn thereof, a Commission of Rebellion, and upon retorn there<g ref="char:EOLhyphen"/>of such other Proceedings as the Court upon Motion shall direct; and that the Costs be paid by each Defendant named in every of the said Proces<g ref="char:EOLhyphen"/>ses, that is to say, every per<g ref="char:EOLhyphen"/>son in an Attachment to pay ten shillings,
+<note place="margin">Attachment 10 <hi>s.</hi>
+                  </note> every person in every Proclamation to pay twen<g ref="char:EOLhyphen"/>ty shillings,
+<note place="margin">Proclamation 20 <hi>s.</hi>
+                  </note> every person in eve<g ref="char:EOLhyphen"/>ry Commission of Rebellion to pay two pounds thirteen shil<g ref="char:EOLunhyphen"/>lings and four pence,
+<note place="margin">Commission of Rebellion 2 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d.</hi>
+                  </note> and all Costs to be paid either by the Plaintiff or Defendant, or their
+<pb n="6" facs="tcp:207745:5"/>respective Attornies in Court, before any further proceedings be had on their behalf respe<g ref="char:EOLhyphen"/>ctively; and that there be in all Process of Contempt in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Middlesex,</hi> and within fifteen Miles thereof,
+<note place="margin">6 days.</note> six days; and in all other Counties within sixty miles of <hi>London,</hi>
+                  <note place="margin">10 days.</note> ten days; and for all other Counties,
+<note place="margin">15 days.</note> fif<g ref="char:EOLhyphen"/>teen days between the Teste and Retorn of each Process, unless the Court shall order Process retornable immediate: And in any Case where the Sheriff shall retorn a <hi>Cepi Corpus</hi> upon Pro<g ref="char:EOLhyphen"/>cess of Contempt, after a Rule of four days given to bring in the Body, and the Body not brought in, then upon a Motion, a Messenger to go and bring in such Defendant.
+<note place="margin">A Messenger.</note>
+               </p>
+            </div>
+            <div n="6" type="rules">
+               <pb n="7" facs="tcp:207745:5"/>
+               <head>VI. ANSWERS. <hi>Time for Defendants to put in their Answers.</hi>
+               </head>
+               <p>EVery Defendant shall put in his Answer within eight days after his Appearance, and the Bill filed as aforesaid, if the Bill shall be filed in the Term, or within two days after, in case he doth not desire a Commissi<g ref="char:EOLhyphen"/>on to Answer, which is to be entred under his Appearance; and to be retornable the beginning of the following Term, and no Defendant living within fifteen miles of <hi>London,</hi>
+                  <note place="margin">15 Miles no Commission.</note> to have a Com<g ref="char:EOLhyphen"/>mission but by special Order of the Court; and all Defendants living within fifty miles of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> appearing upon a Process retornable the first Retorn of <hi>Easter</hi> or <hi>Michaelmas</hi> Terms,
+<note place="margin">Defendants to answer the same Term of the first retorn.</note> and
+<pb n="8" facs="tcp:207745:6"/>desiring a Commission to answer, are to retorn such Commission by the end of the same Term; and every Defendant taking or craving a Commission to answer, is to Rejoin <hi>gratis,</hi>
+                  <note place="margin">Rejoin <hi>gratis.</hi>
+                  </note> and join in Commission to examine Witnes<g ref="char:EOLhyphen"/>ses, or else the Plaintiff to have a Commission <hi>ex parte</hi> within a Week after the end of the Term; and in default of putting in his Answer as aforesaid, an Attachment is to be awarded against him:
+<note place="margin">Attachment three weeks be<g ref="char:EOLhyphen"/>fore Term.</note> And where a Com<g ref="char:EOLhyphen"/>mission is prayed, but not taken out within three Weeks of the beginning of the next ensuing Term (except <hi>Trinity</hi> Term) in such case Process of Contempt to issue retornable the first day of the said next Term.</p>
+            </div>
+            <div n="7" type="rules">
+               <pb n="9" facs="tcp:207745:6"/>
+               <head>VII. <hi>Touching Answers: No Demurrer if in Contempt.</hi>
+               </head>
+               <p>EVery Defendant who shall not answer according to the Rule of the Court, but de<g ref="char:EOLhyphen"/>sires a Commission to take his Answer, on taking forth such a Commission, shall not put in a Demurrer or Dilatory Plea, but may put in an Answer or Plea in barr, unless otherwise order<g ref="char:EOLhyphen"/>ed by Motion in Court.</p>
+            </div>
+            <div n="8" type="rules">
+               <head>VIII. <hi>Payment of Costs upon Contempts for want of Appearances or An<g ref="char:EOLhyphen"/>swers.</hi>
+               </head>
+               <p>EVery Defendant that is in Contempt, shall pay his Costs to the Plaintiff, or his Attorney in Court before his
+<pb n="10" facs="tcp:207745:7"/>Appearance or Answer be accept<g ref="char:EOLhyphen"/>ed; and no Defendant in Con<g ref="char:EOLhyphen"/>tempt shall put in a Demurrer or Dilatory Plea.</p>
+            </div>
+            <div n="9" type="rules">
+               <head>IX. <hi>Times of setting down Demurrers, Pleas,</hi> &amp;c.</head>
+               <p>WHere the Defendant shall put in a Plea or Demur<g ref="char:EOLhyphen"/>rer, the same is to be set down by the Defendant by the <hi>Satur<g ref="char:EOLhyphen"/>day</hi> sevennight following, or else the Plea and Demurrer is to stand over-ruled: And in case the Plea and Demurrer do stand over-ruled as aforesaid, or be over ruled at the hearing, the Defendant is forthwith to pay to the Plaintiff,
+<note place="margin">Plea over ruled 40 <hi>s.</hi>
+                  </note> or his Attorney in Court, forty shillings Costs, and after his Answer to rejoin <hi>gratis,</hi> and join in Commission as aforesaid: And in case the Plea or Demurrer be orderd to stand good, the Plaintiff to pay to
+<pb n="11" facs="tcp:207745:7"/>the Defendant, or his Attorney in Court, thirty shillings Costs;
+<note place="margin">Good, 30 <hi>s.</hi>
+                  </note> and if the Demurrer be to the whole Bill,
+<note place="margin">If the whole Bill, the Defen<g ref="char:EOLhyphen"/>dant dismist. If put in Answer two days, <hi>&amp;c.</hi>
+                  </note> and be admitted by the Plaintiff; or allowed by the the Court, the Defendant to stand dimissed with Costs: And if the Defendant will put in his Answer two days before the day appointed for the hearing of the said Plea and Demurrer, or sooner, and give notice thereof to the Plaintiffs Attorney, he is to pay to the Plaintiff twenty shillings Costs.</p>
+            </div>
+            <div n="10" type="rules">
+               <head>X. <hi>Pleas of Outlawry.</hi>
+               </head>
+               <p>UPon a plea of Outlawry, in case the same be ad<g ref="char:EOLhyphen"/>mitted by the Plaintiff, or ad<g ref="char:EOLhyphen"/>judged good, and the Outlaw<g ref="char:EOLhyphen"/>ry after Reversed, then the Plain<g ref="char:EOLhyphen"/>tiff having paid the Costs on the Plea,
+<note place="margin">New <hi>Subpoena.</hi>
+                  </note> may take forth a new
+<pb n="12" facs="tcp:207745:8"/>
+                  <hi>Subpoena</hi> against the Defendant to answer the said Bill.</p>
+            </div>
+            <div n="11" type="rules">
+               <head>XI. <hi>Admitting of Pleas and Demur<g ref="char:EOLhyphen"/>rers to be good.</hi>
+               </head>
+               <p>IF the Plaintiff, or his Attor<g ref="char:EOLhyphen"/>ney in Court shall two days before a Plea is appointed to be heard, or sooner, give notice to the Defendant, or his Attor<g ref="char:EOLhyphen"/>ney in Court, that he will re<g ref="char:EOLhyphen"/>ply to the same,
+<note place="margin">If reply within a week, or De<g ref="char:EOLhyphen"/>fendant dismist, 30 <hi>s.</hi>
+                  </note> the said Plain<g ref="char:EOLhyphen"/>tiff shall then reply thereto with<g ref="char:EOLhyphen"/>in a Week without Costs, or in default thereof, the Defendant to be dismist with thirty shil<g ref="char:EOLhyphen"/>lings Costs; and if the Plaintiff or his Attorney shall two days before a Plea or Demurrer is set down to he heard, or sooner, give notice to the Defendant, or his Attorney in Court, that he doth admit the Plea or Demur<g ref="char:EOLhyphen"/>rer to be good, and shall pay to
+<pb n="13" facs="tcp:207745:8"/>the Defendant, or his Attorney in Court, twenty shillings Costs, then the Defendant shall not need to attend his Plea or De<g ref="char:EOLhyphen"/>murrer.</p>
+            </div>
+            <div n="12" type="rules">
+               <head>XII. <hi>If Demurrer on Mistake.</hi>
+               </head>
+               <p>IF the Demurrer be grounded upon some Error, Slip, or Mistake in the Bill, the Plaintiff shall be permitted of course to amend the same, paying to the Defendant, or his Attorney in Court, twenty shillings Costs:
+<note place="margin">20 <hi>s.</hi> Costs.</note> But if the Plaintiff shall not within four days, after such De<g ref="char:EOLhyphen"/>murrer, put in, amend, or alter it, and pay the Costs, then the Demurrer shall be determined in Court.
+<note place="margin">Or determined in Court.</note>
+               </p>
+            </div>
+            <div n="13" type="rules">
+               <pb n="14" facs="tcp:207745:9"/>
+               <head>XIII. <hi>Pleas of Dependences of a former Suit.</hi>
+               </head>
+               <p>IF the Defendant shall plead the dependency of a former Suit for the same matter com<g ref="char:EOLhyphen"/>plained of in the Bill, and the Plaintiff shall admit of the said Plea, that then the Plaintiff shall forthwith pay to the Defendant, or his Attorney in Court,
+<note place="margin">40 <hi>s.</hi> Costs.</note> forty shillings Costs: And if the Plain<g ref="char:EOLhyphen"/>tiff shall not two days before the same is set down to be heard, or sooner, admit the said Plea, and pay forty shillings Costs; then the same is to be heard in Court: And if upon hearing it shall be adjudged a good Plea, then the Plaintiff to pay three pounds Costs.
+<note place="margin">3 <hi>l.</hi> If heard.</note>
+               </p>
+            </div>
+            <div n="14" type="rules">
+               <pb n="15" facs="tcp:207745:9"/>
+               <head>XIV. <hi>Exceptions.</hi>
+               </head>
+               <p>EVery Plaintiff that shall take Exceptions to the De<g ref="char:EOLhyphen"/>fendants Answer, shall put in his Exceptions to the same with<g ref="char:EOLhyphen"/>in four days within the Term next after the coming in of the Answer, and set down the same to be heard on the <hi>Saturday</hi> se<g ref="char:EOLhyphen"/>vennight following:
+<note place="margin">To be heard.</note> in case the Defendant will put in his An<g ref="char:EOLhyphen"/>swer before the time appointed for the hearing of the same Ex<g ref="char:EOLhyphen"/>ceptions, he is to put in the same two days, or sooner, be<g ref="char:EOLhyphen"/>fore the time for the hearing thereof, and he is to pay but twenty Shillings Costs;
+<note place="margin">If answer, 20 <hi>s.</hi>
+                  </note> and if upon hearing the Exceptions, the Defendant be ruled to An<g ref="char:EOLhyphen"/>swer, the Defendant shall forth<g ref="char:EOLhyphen"/>with pay to the Plaintiff, or his Attoney in Court,
+<note place="margin">If heard, 3 <hi>l.</hi>
+                  </note> three pounds
+<pb n="16" facs="tcp:207745:10"/>Costs, and shall put in his An<g ref="char:EOLhyphen"/>swer within eight days,
+<note place="margin">Answer in 8 days.</note> unless he desire a Commission to answer; in both which Cases he is to Rejoin <hi>gratis,</hi> and joyn in Com<g ref="char:EOLhyphen"/>mission as aforesaid. And if the Defendants Answer shall be ad<g ref="char:EOLhyphen"/>judged good, the Plaintiff shall forthwith pay to the Defendant, or his Attorney in Court,
+<note place="margin">Answer good, 40 <hi>s.</hi>
+                  </note> forty shillings Costs. And all An<g ref="char:EOLhyphen"/>swers coming in after the setting down of Causes, are to be taken as Answers of the suc<g ref="char:EOLhyphen"/>ceeding Term.</p>
+            </div>
+            <div n="15" type="rules">
+               <head>XV. <hi>Second Insufficient Answer.</hi>
+               </head>
+               <p>THat every Defendant put<g ref="char:EOLhyphen"/>ting in a Second Insuffi<g ref="char:EOLhyphen"/>cient Answer,
+<note place="margin">Double Costs.</note> shall pay double Costs, as if the first Answer had upon hearing been adjudged insufficient. Every Defendant putting in a third Insufficient
+<pb n="17" facs="tcp:207745:10"/>Answer,
+<note place="margin">Third, treble Costs.</note> shall in like manner pay treble Costs: And every Defen<g ref="char:EOLhyphen"/>dant putting in a fourth Insuffi<g ref="char:EOLhyphen"/>cient Answer,
+<note place="margin">Fourth, as Court shall order.</note> shall pay such further Costs, as the Court shall think fit, to the Plaintiff, or his Attorney in Court, and shall stand committed to the <hi>Fleet,</hi> and be examined upon Interro<g ref="char:EOLhyphen"/>gatories.</p>
+            </div>
+            <div n="16" type="rules">
+               <head>XVI. <hi>Proceedings upon Process of Con<g ref="char:EOLhyphen"/>tempt upon Insufficient An<g ref="char:EOLhyphen"/>swers.</hi>
+               </head>
+               <p>EVery person in Contempt, for not appearing, and that shall after clear his Contempts and appear, but shall incur any other Contempts for not answer<g ref="char:EOLhyphen"/>ing according to the Rules, shall pay the like Costs, and have the Process of Contempt con<g ref="char:EOLhyphen"/>tinued against him till there shall be a sufficient Answer
+<pb n="18" facs="tcp:207745:11"/>put in, as if he had not ap<g ref="char:EOLhyphen"/>peared: And the like Rule where persons are in Contempt for not Answering until they have fully answered; but upon clearing his Contempt, he is to have an allowance of what Costs he paid upon the former Contempt.</p>
+            </div>
+            <div n="17" type="rules">
+               <head>XVII. <hi>Plaintiffs dismission of the Bill before Replication.</hi>
+               </head>
+               <p>IF a Plaintiff will dimiss his own Bill before he Reply, he shall pay forty shillings Costs, unless the Court shall think fit upon Motion to encrease the same.</p>
+            </div>
+            <div n="18" type="rules">
+               <pb n="19" facs="tcp:207745:11"/>
+               <head>XVIII. <hi>Proceedings on the bringing to the Bar for want of Appear<g ref="char:EOLhyphen"/>ance or Answers.</hi>
+               </head>
+               <p>IF a Defendant be brought to the Barr by <hi>Habeas Corpus</hi> for not appearing, his Appear<g ref="char:EOLhyphen"/>ance shall be then Recorded, and he forthwith charged with the Bill the first time, and stand committed; and if after<g ref="char:EOLhyphen"/>wards he do not answer accord<g ref="char:EOLhyphen"/>ing to the course of the Court, being brought twice more to the Barr by <hi>Habeas Corpus,</hi> or by Rule of Court, and charged with the Bill each time, the Bill shall be taken <hi>pro Confesso</hi> against him.
+<note place="margin">Pro Confesso.</note>
+               </p>
+            </div>
+            <div n="19" type="rules">
+               <pb n="20" facs="tcp:207745:12"/>
+               <head>XIX. <hi>Hearing Causes upon Bill and Answer.</hi>
+               </head>
+               <p>IF the Plaintiff shall set down his Cause to be heard upon Bill and Answer, and serve the Defendant to hear Judgment; and if upon hearing the Court doth not think fit to make any Decree upon Bill and Answer, and shall permit the Plaintiff to reply,
+<note place="margin">Plaintiff per<g ref="char:EOLhyphen"/>mitted to reply.</note> he shall forthwith pay to the Defendant, or his Attor<g ref="char:EOLhyphen"/>ney in Court,
+<note place="margin">5 <hi>l.</hi> Costs.</note> five pounds Costs for his unjust vexation,
+<note place="margin">Reply in eight days.</note> and Re<g ref="char:EOLhyphen"/>ply within eight days, or else the Defendant to stand dismis<g ref="char:EOLhyphen"/>sed with the said five pounds Costs; and if he doth Reply, the Defendant is to Rejoyn <hi>gratis,</hi> and joyn in Commission, which Commission shall be ta<g ref="char:EOLhyphen"/>ken forth to be executed the
+<pb n="21" facs="tcp:207745:12"/>next Vacation, except in the Vacation after <hi>Easter</hi> Term.</p>
+            </div>
+            <div n="20" type="rules">
+               <head>XX. <hi>Commissions for want of Replica<g ref="char:EOLhyphen"/>tion, or for not proceeding af<g ref="char:EOLhyphen"/>ter Replication.</hi>
+               </head>
+               <p>IF the Plaintiff doth not Re<g ref="char:EOLhyphen"/>ply to the Defendants An<g ref="char:EOLhyphen"/>swer some time the next Term, after the Answer is put in, the Defendant may the Term fol<g ref="char:EOLhyphen"/>lowing give a Rule to be dis<g ref="char:EOLhyphen"/>missed within a Week; and if the Plaintiff shall not within that time Reply to the Defen<g ref="char:EOLhyphen"/>dants Answer, the Defendant shall be dismissed with five Marks Costs; but if the De<g ref="char:EOLhyphen"/>fendant doth give a Rule to be dismissed for want of a Re<g ref="char:EOLhyphen"/>plication, at the coming in of such Replication the Defendant is to Rejoyn <hi>gratis,</hi>
+                  <note place="margin">To Rejoyn <hi>gra<g ref="char:EOLhyphen"/>tis.</hi>
+                  </note> and join in Com<g ref="char:EOLhyphen"/>mission; and if the Plaintiff doth
+<pb n="22" facs="tcp:207745:13"/>doth not the same Term, or the Term following take forth a Commission to examine Wit<g ref="char:EOLhyphen"/>nesses, the Defendant may either take forth a Commission,
+<note place="margin">If don't take Commission, Defendant dis<g ref="char:EOLhyphen"/>mist with 5 <hi>l.</hi> Costs.</note>
+                  <hi>ex parte,</hi> or else be dismissed with five pounds Costs: And in Cases where the Defendant shall give a Rule, either for not Replying to the Defendants Answer, or for not Proceeding after Repli<g ref="char:EOLhyphen"/>cation, if there be not a Week in Term,
+<note place="margin">Time for Rule. Setting down Causes.</note> the Plaintiff to have a day to shew Cause till the setting down of Causes.</p>
+            </div>
+            <div n="21" type="rules">
+               <head>XXI. <hi>Examination of Witnesses.</hi>
+               </head>
+               <p>IF the Defendant being served with a <hi>Subpoena</hi> to Rejoyn, or appearing <hi>Gratis,</hi> to rejoyn and join in Commission, shall not deliver Commissioners Names to the Plaintiffs Attorney by the end of that Term, and
+<pb n="23" facs="tcp:207745:13"/>strike Names within four days after the end of that Term,
+<note place="margin">Time for De<g ref="char:EOLhyphen"/>fendants to join in Commission.</note> the Plaintiff may take a Com<g ref="char:EOLhyphen"/>mission <hi>ex parte.</hi>
+               </p>
+            </div>
+            <div n="22" type="rules">
+               <head>XXII. <hi>Execution of Commissions to exa<g ref="char:EOLhyphen"/>mine Witnesses.</hi>
+               </head>
+               <p>WHen a Commission is ta<g ref="char:EOLhyphen"/>ken out, if through the default of the party, having the carriage of the same, or of his Commissioners, the same be not executed, he shall pay unto the other party such reasonable Costs as he or his Solicitor shall, up<g ref="char:EOLhyphen"/>on Oath, make appear he was put unto by such failure, and shall renew such Commission at his own charge, wherein the adverse party may join, and Cross examine such Witnesses, if he think fit; but if he examine any Witnesses of his own, then he is to pay the Half Fee of
+<pb n="24" facs="tcp:207745:14"/>the Commission, and the adverse party may also have a <hi>Duplicate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of such Commission; and if the party taking out of such re<g ref="char:EOLhyphen"/>newed Commission, do not give notice to execute his Commissi<g ref="char:EOLhyphen"/>on eight days before the Re<g ref="char:EOLhyphen"/>torn thereof,
+<note place="margin">Commission to be eight days before retorn'd.</note> that then the ad<g ref="char:EOLhyphen"/>verse party, upon four days notice may execute his Com<g ref="char:EOLhyphen"/>mission, and no second Commis<g ref="char:EOLhyphen"/>sion to be awarded without Motion in Court.</p>
+            </div>
+            <div n="23" type="rules">
+               <head>XXIII. <hi>Renewed Commissions to be Exe<g ref="char:EOLhyphen"/>cuted.</hi>
+               </head>
+               <p>IF at the instance of a Defen<g ref="char:EOLhyphen"/>dant, a Commission to exa<g ref="char:EOLhyphen"/>mine Witnesses is ordered to be<g ref="char:EOLhyphen"/>renewed, either for a default by him, or his Commissioners, or because he did not examine all his Witnesses by the first Commission, he shall at his peril
+<pb n="25" facs="tcp:207745:14"/>examine all his Witnesses by such renewed Commission, or in Court by the Retorn thereof; and no more Commissions to issue,
+<note place="margin">No more Com<g ref="char:EOLhyphen"/>missions, except for Witnesses beyond Sea, or order of Court.</note> except it be for the exa<g ref="char:EOLhyphen"/>mination of Witnesses beyond the Seas, or by further order of Court: And that no Witnesses shall be examined at the hear<g ref="char:EOLhyphen"/>ing of any Cause <hi>viva voce,</hi> without special Order of this Court, made before the Hearing of the Cause.</p>
+            </div>
+            <div n="24" type="rules">
+               <head>XXIV. <hi>No Commission in</hi> London.</head>
+               <p>THat no Commission <hi>ad examinandum Testes</hi> be exhibited in <hi>London,</hi> or within ten miles thereof, without spe<g ref="char:EOLhyphen"/>cial Order first obtained upon <hi>Affidavit</hi> made of the Parties inability to travel, or other good matter: And that all Depositi<g ref="char:EOLhyphen"/>ons
+<pb n="26" facs="tcp:207745:15"/>taken by Commission in <hi>London,</hi> or within ten miles thereof, without special Order as aforesaid, shall stand super<g ref="char:EOLhyphen"/>seded, and suppressed <hi>ipso facto,</hi> and not allowed to be read in Evidence at the hearing of the Cause;
+<note place="margin">No Interrogato<g ref="char:EOLhyphen"/>ries added with<g ref="char:EOLhyphen"/>out leave of the Court.</note> and after Interrogatories are exhibited of either side, nei<g ref="char:EOLhyphen"/>ther Party shall add to, or alter the same, without leave of the Court.</p>
+            </div>
+            <div n="25" type="rules">
+               <head>XXV. <hi>Publication.</hi>
+               </head>
+               <p>PUblication to pass within one Week after every Com<g ref="char:EOLhyphen"/>mission retorned, or the Wit<g ref="char:EOLhyphen"/>nesses examined in Court, if no Cause be shewed to the contrary; and where a Rule for Publication shall be given, there not being not a Week in Term,
+<note place="margin">A Week.</note> day shall be given to
+<pb n="27" facs="tcp:207745:15"/>shew Cause to the contrary at the setting down of Causes.
+<note place="margin">Or setting down of Cau<g ref="char:EOLhyphen"/>ses.</note>
+               </p>
+            </div>
+            <div n="26" type="rules">
+               <head>XXVI. <hi>Ʋse of Depositions of Witnesses.</hi>
+               </head>
+               <p>DEpositions of Witnesses in several Causes, which are meerly Cross Causes (that is to say) between the same Par<g ref="char:EOLhyphen"/>ties, and touching the same Matter, may be used at the hearing of both Causes coming to hearing together, without any Motion or Order in that be<g ref="char:EOLhyphen"/>half.</p>
+            </div>
+            <div n="27" type="rules">
+               <pb n="28" facs="tcp:207745:16"/>
+               <head>XXVII. <hi>Setting down of Causes in</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>or within sixty Miles, in</hi> Easter <hi>or</hi> Michaelmas <hi>Term.</hi>
+               </head>
+               <p>NO Causes shall be put in<g ref="char:EOLhyphen"/>to the General Bill of Causes, to be set down to be heard, till Publication is past, except it be by special Order of Court; and when Publica<g ref="char:EOLhyphen"/>tion is past, the Cause to be set down for the Term fol<g ref="char:EOLhyphen"/>lowing, except in Cases where the Parties live in <hi>London,</hi> or within sixty Miles thereof; wherein if a Replication be fi<g ref="char:EOLhyphen"/>led in <hi>Trinity</hi> or <hi>Hillary</hi> Terms, and Publication do pass the first Week of <hi>Michaelmas</hi> or <hi>Easter</hi> Terms following,
+<note place="margin">If Publication past the first Week in Term.</note> such Cause may be set down to be heard the last day of Causes
+<pb n="29" facs="tcp:207745:16"/>of such <hi>Michaelmas</hi> or <hi>Easter</hi> Terms.</p>
+            </div>
+            <div n="28" type="rules">
+               <head>XXVIII. Subpoena's <hi>to hear Judgment.</hi>
+               </head>
+               <p>
+                  <hi>SƲbpaena's</hi> to hear Judgment shall be served in <hi>London,</hi> or within sixty miles of the City of <hi>London,</hi>
+                  <note place="margin">
+                     <hi>London,</hi> 10 days.</note> ten days be<g ref="char:EOLhyphen"/>fore the day of hearing of the said Cause; and in more remote places,
+<note place="margin">Remote 14 days.</note> fourteen days be foresuch day of hearing, except in <hi>Trinity</hi> Term,
+<note place="margin">Defendant, 10 days.</note> and then the Defendants inhabiting in the more remote Parts, to have but ten days notice.</p>
+            </div>
+            <div n="29" type="rules">
+               <pb n="30" facs="tcp:207745:17"/>
+               <head>XXIX. <hi>Hearings.</hi>
+               </head>
+               <p>IF the Defendant shall be ser<g ref="char:EOLhyphen"/>ved to hear Judgment, and make Default, and hath day given him to shew Cause why a Decree should not be made against him, such Defendant, or his Counsel shall not be heard therein, till he first pay down to the Plaintiff, or his Attor<g ref="char:EOLhyphen"/>ney in Court 5 <hi>l.</hi> Costs;
+<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>l.</hi> Cost if the Defendant at<g ref="char:EOLhyphen"/>tend not.</note> and in case the Defendant doth attend the Hearing, being duly served, and that appear to the Court; and if the Plaintiff doth not attend, the Cause to be put out of the Paper, and the Plain<g ref="char:EOLhyphen"/>tiff to pay to the Defendant 5 <hi>l.</hi> Costs;
+<note place="margin">Plaintiff to pay 5 <hi>l.</hi> before heard.</note> and the Defendant may set down the Cause to be heard the next Term <hi>ad requisiti<g ref="char:EOLhyphen"/>onem Defend',</hi> the Plaintiff to
+<pb n="31" facs="tcp:207745:17"/>pay the said 5 <hi>l.</hi> Costs before his Counsel be heard.</p>
+            </div>
+            <div n="30" type="rules">
+               <head>XXX. <hi>Rules on Hearing on Motions.</hi>
+               </head>
+               <p>THat the Judgment pro<g ref="char:EOLhyphen"/>nounced on every Hear<g ref="char:EOLhyphen"/>ing, and the Rule given on eve<g ref="char:EOLhyphen"/>ry Motion, shall be truly taken, and fairly written by His Ma<g ref="char:EOLhyphen"/>jesty's Remembrancer,
+<note place="margin">Minutes.</note> or his Deputy, and openly read before another Cause or Motion be be<g ref="char:EOLhyphen"/>gun, to the end if the same be mistaken, it may be rectified by the Court.</p>
+            </div>
+            <div n="31" type="rules">
+               <head>XXXI. <hi>Entries of Decrees and Dismissions.</hi>
+               </head>
+               <p>ANd every Decree or Order of Dismissions made by the Court, that is not entred
+<pb n="32" facs="tcp:207745:18"/>some time before the last day of the next Term,
+<note place="margin">Next Term.</note> after the pronouncing thereof, shall not be entred, but upon Motion in open Court.</p>
+            </div>
+            <div n="32" type="rules">
+               <head>XXXII. <hi>Decrees and Orders.</hi>
+               </head>
+               <p>EVery Order and Decree to be drawn up as short as with conveniency they can be,
+<note place="margin">Short.</note> without reciting the former Or<g ref="char:EOLhyphen"/>ders and Pleadings at large.</p>
+            </div>
+            <div n="33" type="rules">
+               <head>XXXIII. <hi>Bills of Review.</hi>
+               </head>
+               <p>WHere a Bill of Review shall be brought, the Plaintiff in such Bill shall pay the Costs taxed,
+<note place="margin">Pay Costs, and enter into a Re<g ref="char:EOLhyphen"/>cognizance.</note> or due in the former Cause, and enter into a Recognizance of such Penalty
+<pb n="33" facs="tcp:207745:18"/>as the Court shall appoint, to perform the same, in case the same shall be affirmed, and to pay such further Costs as this Court shall direct, otherwise the Defendant not to be enforced to give any Answer to such Bill, or incur any Contempts for his neglect therein.
+<note place="margin">No Contempts.</note>
+               </p>
+            </div>
+            <div n="34" type="rules">
+               <head>XXXIV. <hi>Proceedings upon Bills to Exa<g ref="char:EOLhyphen"/>mine Witnesses</hi> in perpetuam rei<g ref="char:EOLhyphen"/>memoriam.</head>
+               <p>WHere a Bill shall be ex<g ref="char:EOLhyphen"/>hibited to examine Wit<g ref="char:EOLhyphen"/>nesses <hi>in perpetuam rei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> memo<g ref="char:EOLhyphen"/>riam,</hi> and the Defendant being served with Process, doth not appear, but stands in Contempt, the Plaintiff may then upon Mo<g ref="char:EOLhyphen"/>tion have a Commission to ex<g ref="char:EOLhyphen"/>amine his Witnesses <hi>de bene esse;</hi> and where the Defendant shall
+<pb n="34" facs="tcp:207745:19"/>have appeared, he may join in Commission, if he think fit, and Cross-Examine the Plaintiffs Witnesses,
+<note place="margin">Defendant cross examined.</note> he striking Commis<g ref="char:EOLhyphen"/>sioners Names within four days after the making of the Order for such Commission: And after the Defendant hath answered such Bill,
+<note place="margin">Plaintiff to re<g ref="char:EOLhyphen"/>ply.</note> the Plaintiff is then to Reply, and re-examine such of his said Witnesses, formerly exami<g ref="char:EOLhyphen"/>ned, as shall be then living; and upon the retorn of the same Commission, and the Depositions thereby taken, together with the Depositions of such of the Witnesses formerly examined,
+<note place="margin">Depositions of dead and other, &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> as were before the Execution of such second Commission dead, are fortwith to be published.</p>
+            </div>
+            <div n="35" type="rules">
+               <pb n="35" facs="tcp:207745:19"/>
+               <head>XXXV. <hi>Contempt in not performing Orders and Decrees.</hi>
+               </head>
+               <p>THat no Person shall be in Contempt for not per<g ref="char:EOLhyphen"/>forming any Order or Decree of the Court, until he shall be ser<g ref="char:EOLhyphen"/>ved therewith, by delivering a true Copy thereof, and shewing the Decree or Order under the Seal of the Court unto such person,
+<note place="margin">Under Seal per<g ref="char:EOLhyphen"/>sonally, or an Oath.</note> and if the Party cannot be found to be personally ser<g ref="char:EOLhyphen"/>ved, upon Oath first made there<g ref="char:EOLhyphen"/>of, and an Order of Court thereupon, the Writ of Executi<g ref="char:EOLhyphen"/>on to be left at his House,
+<note place="margin">Left at House, or Clerk in Court.</note> or place of his last abode, or a Co<g ref="char:EOLhyphen"/>py thereof with his Clerk in Court, and that to be good Ser<g ref="char:EOLhyphen"/>vice to bring him in Contempt.</p>
+            </div>
+            <div n="36" type="rules">
+               <pb n="36" facs="tcp:207745:20"/>
+               <head>XXXVI. <hi>Times for coming in of Reports, and for filing of Exceptions to Reports.</hi>
+               </head>
+               <p>WHere the Court upon hearing any Cause, shall refer any Matter of Account, or other Matter to be Reported to the Court, such Report shall be made, and delivered to the sworn Clerk concerned in the Cause,
+<note place="margin">To come in 6. days.</note> six days before the time appointed for hearing of the Cause upon such Report, who is forthwith to give notice to the Clerk on the other side; and if the adverse Party will take Ex<g ref="char:EOLhyphen"/>ceptions to the same, he shall put in such Exceptions two days at least before the hearing of the Cause.
+<note place="margin">Exceptions 2 days.</note>
+               </p>
+            </div>
+            <div n="37" type="rules">
+               <pb n="37" facs="tcp:207745:20"/>
+               <head>XXXVII. <hi>Not performing Decrees.</hi>
+               </head>
+               <p>WHere several things are to be performed by a De<g ref="char:EOLhyphen"/>cree on the part of the Defen<g ref="char:EOLhyphen"/>dant, and the Defendant is brought in upon Contempt for not performing some part of that Decree, he is not to be enlarged until he shall perform that part of the Decree that is to be presently done, and give security by Recognizance with Sureties,
+<note place="margin">Recognizance.</note> as the Court shall order, to perform the other part.</p>
+            </div>
+            <div n="38" type="rules">
+               <pb n="38" facs="tcp:207745:21"/>
+               <head>XXXVIII. <hi>Examination of Persons in Contempt.</hi>
+               </head>
+               <p>WHere any person appear<g ref="char:EOLhyphen"/>eth in Court, upon Pro<g ref="char:EOLhyphen"/>cess of Contempt, to be examin<g ref="char:EOLhyphen"/>ed upon Interrogatories, he is to stand committed to the <hi>Fleet,</hi>
+                  <note place="margin">Stand Commit<g ref="char:EOLhyphen"/>ted. Recognizance.</note> unless he acknowledge a Recog<g ref="char:EOLhyphen"/>nizance of 100 <hi>l.</hi> or more (if the Case require it) to appear <hi>de die in diem,</hi> and not to depart without license of the Court,
+<note place="margin">Interogatories to be exhibited 4 days after ap<g ref="char:EOLhyphen"/>pearance, or dismist.</note> and then Interrogatories shall be exhibited for his Exa<g ref="char:EOLhyphen"/>mination within four days after such his appearance; and in de<g ref="char:EOLhyphen"/>fault thereof the party prose<g ref="char:EOLhyphen"/>cuted shall be dismissed with Costs; upon which Examinati<g ref="char:EOLhyphen"/>on, if the Defendant deny the Contempt, or the same doth not clearly appear, the Prose<g ref="char:EOLhyphen"/>cutor
+<pb n="39" facs="tcp:207745:21"/>may upon Motion Exa<g ref="char:EOLhyphen"/>mine Witnesses for proof there<g ref="char:EOLhyphen"/>of upon notice given to the Defendant,
+<note place="margin">A Commission on Motion.</note> or his Attorney in Court, or by Commisson, for which he may name a Commis<g ref="char:EOLhyphen"/>sioner, but is not to examine any Witnesses upon his part, unless he shall satisfie the Court upon some matter of Fact ne<g ref="char:EOLhyphen"/>cessary to be proved for clear<g ref="char:EOLhyphen"/>ing the truth: In which case the Court, if there be Cause, will give leave to him to examine Witnesses to such particular Points, so directed by the Court; and the other side may Cross-Examine the said Wit<g ref="char:EOLhyphen"/>nesses.</p>
+            </div>
+            <div n="39" type="rules">
+               <pb n="40" facs="tcp:207745:22"/>
+               <head>XXXIX. <hi>Touching the same.</hi>
+               </head>
+               <p>ANd when a Commission is taken out to prove a Con<g ref="char:EOLhyphen"/>tempt, the Party prosecuted shall have a day to appear upon his said Recognizance till the retorn of the Commisson: And if the Commission be not retorn<g ref="char:EOLhyphen"/>ed within a Week, after the retorn thereof, the Party prose<g ref="char:EOLhyphen"/>cuted shall be discharged of his Contempt with Costs, and his Recognizance vacated.</p>
+            </div>
+            <div n="40" type="rules">
+               <head>XL. <hi>Beating or Abusing the Persons serving the Process.</hi>
+               </head>
+               <p>WHere any Oath shall be made of Misdemeanor of Beating or Abusing the Party
+<pb n="41" facs="tcp:207745:22"/>upon serving the Process, or Order of the Court, the Party offending shall stand Committed upon Motion,
+<note place="margin">No Examinati<g ref="char:EOLhyphen"/>on.</note> and no Examination is in that Case to be admitted; and when an Affidavit shall be made by two Persons of Scanda<g ref="char:EOLhyphen"/>lous and Contemptuous Words against the Court,
+<note place="margin">Two Persons, Contemptuous Words.</note> or the Process thereof, the Party offending shall likewise stand Committed upon Motion, without any fur<g ref="char:EOLhyphen"/>ther Examination;
+<note place="margin">Single Affidavit.</note> and a single Affidavit in such Case shall be sufficient to ground an Attach<g ref="char:EOLhyphen"/>ment, whereupon such Person shall be brought to be examin<g ref="char:EOLhyphen"/>ed; and if the Misdemeanor shall be confessed, or proved against him,
+<note place="margin">Stand Commit<g ref="char:EOLhyphen"/>ted.</note> he shall stand Com<g ref="char:EOLhyphen"/>mitted until he satisfie the Court touching his said Misdemeanor, and pay the Prosecutor his Costs: But if he shall not there<g ref="char:EOLhyphen"/>of be found guity, save by the Oath of the Party that made
+<pb n="42" facs="tcp:207745:23"/>the Affidavit, he shall be there<g ref="char:EOLhyphen"/>of discharged, yet without any Costs, in respect of the Oath made against him, as afore<g ref="char:EOLhyphen"/>said.</p>
+            </div>
+            <div n="41" type="rules">
+               <head>XLI. <hi>Injunctions.</hi>
+               </head>
+               <p>THat no Injunction be grant<g ref="char:EOLhyphen"/>ed, or day given to shew Cause why the same should not be granted, but upon Motion in open Court, satisfying the Court with such Matter as may induce the Court in Justice to grant the same, and where there are Ex<g ref="char:EOLhyphen"/>ceptions put in to an Answer, the Plaintiff may move for an Injun<g ref="char:EOLhyphen"/>ction upon opening of a materi<g ref="char:EOLhyphen"/>al Exception to the Court.</p>
+            </div>
+            <div n="42" type="rules">
+               <pb n="43" facs="tcp:207745:23"/>
+               <head>XLII. <hi>Taxing of Costs.</hi>
+               </head>
+               <p>THat in all Cases where Costs are to be Taxed up<g ref="char:EOLhyphen"/>on a Bill of Costs in the Office of His Majesty's Remembrancer, His Majesty's Remembrancer is to Tax the Costs, but shall not Tax the same without notice gi<g ref="char:EOLhyphen"/>ven to the Attorneys on both sides to attend him.</p>
+            </div>
+            <div n="43" type="rules">
+               <head>XLIII. <hi>Bills of Review.</hi>
+               </head>
+               <p>IF a Defendant be served with Process upon a Bill of Revi<g ref="char:EOLhyphen"/>vor, and shall not Answer, or desire a Commission within eight days,
+<note place="margin">Revived 8 days.</note> the former Proceedings shall stand revived upon Motion.</p>
+            </div>
+            <div n="44" type="rules">
+               <pb n="44" facs="tcp:207745:24"/>
+               <head>XLIV. <hi>Serving of Sheriffs, or Ʋnder-She<g ref="char:EOLhyphen"/>riffs with Orders.</hi>
+               </head>
+               <p>THat where a Sheriff, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Under-Sheriff is ordered to perform any thing by the Order of the Court, serving o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sheriff, or Under-Sherif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with a true Copy of such Or<g ref="char:EOLhyphen"/>der under the Seal of the Court,
+<note place="margin">Under Seal.</note> and Affidavit made thereof, and Warrant thereupon from one of the Barons, shall be a sufficient Service to bring the said She<g ref="char:EOLhyphen"/>riff, or Under-Sheriff in Con<g ref="char:EOLhyphen"/>tempt if he do not perform the same.</p>
+            </div>
+            <div n="45" type="rules">
+               <pb n="45" facs="tcp:207745:24"/>
+               <head>XLV. <hi>Sheriff to name Attorneys.</hi>
+               </head>
+               <p>THat all Sheriffs shall have and assign their able and sufficient Attorney and Deputy in this Court, the same Court setting, which shall attend this Court from time to time, to receive and retorn the Writs and Commandments of the same, according to the Statute in that behalf provided; and that every Sheriff upon the entring into his Recognizance, do declare and deliver unto one of the sworn Clerks in the Office of His Majesty's Remembrancer, the Name of such Attorney or De<g ref="char:EOLhyphen"/>puty, so by him assigned.</p>
+            </div>
+            <div n="46" type="rules">
+               <pb n="46" facs="tcp:207745:25"/>
+               <head>XLVI. <hi>Rules to Sheriff to Retorn Process.</hi>
+               </head>
+               <p>ANd where a Sheriff neg<g ref="char:EOLhyphen"/>lects to retorn any Pro<g ref="char:EOLhyphen"/>cess delivered to him, Rules may be given the last day of the Term for to retorn such Writs by the Sealing-day,
+<note place="margin">Sealing-day, or amecred 40 <hi>s.</hi>
+                  </note> or to be amerced 40 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="47" type="rules">
+               <head>XLVII. <hi>Paupers.</hi>
+               </head>
+               <p>IF any Person shall petition to be admitted in <hi>Forma Pauperis,</hi>
+                  <note place="margin">Certificate un<g ref="char:EOLhyphen"/>der Counsels Hand.</note> he shall bring a Cer<g ref="char:EOLhyphen"/>tificate, under his Counsels hand upon his Petition, that he hath probable Cause of Suit,
+<pb n="47" facs="tcp:207745:25"/>and make usual Oath before he be admitted,
+<note place="margin">Affidavit.</note> and such Coun<g ref="char:EOLhyphen"/>sel to be assigned for one.</p>
+            </div>
+            <div n="48" type="rules">
+               <head>XLVIII. <hi>Notes of Informations.</hi>
+               </head>
+               <p>THat according to an Or<g ref="char:EOLhyphen"/>der of Court made the second day of <hi>July</hi> 1686. upon the making out of any Process upon any Information to be exhibited in the Office of His Majesty's Remembrancer in this Court for the Seisure of any Goods,
+<note place="margin">Seisures.</note> there shall be a brief Note or Entry made by one of the sworn Clerks, in a Book to be prepared for that pur<g ref="char:EOLhyphen"/>pose, of the Name of the Par<g ref="char:EOLhyphen"/>ty that seized the same, and of the Quality of the Goods seized, together with the day of the Month when the same
+<pb n="48" facs="tcp:207745:26"/>is Exhibited; and that upon the making out of any Pro<g ref="char:EOLhyphen"/>cess upon personal Informati<g ref="char:EOLhyphen"/>ons upon Penal Statutes, there shall be a brief Note or En<g ref="char:EOLhyphen"/>try made by one of the sworn Clerks,
+<note place="margin">Personal Infor<g ref="char:EOLhyphen"/>mations.</note> in the said Book, of the Names of the Plaintiffs and Defendants, together with the Day of the Month when the same is Exhibited, unto which Book such person as is, or shall be imployed on behalf of His said Majesty for the recovering and getting in His said Maje<g ref="char:EOLhyphen"/>sty's Moiety, or part of such Forfeitures, may have recourse and free liberty to inspect and peruse the same.
+<note place="margin">Majesty's Agent to inspect.</note>
+               </p>
+            </div>
+            <div n="49" type="rules">
+               <pb n="49" facs="tcp:207745:26"/>
+               <head>XLIX. <hi>Records of Recoveries and Fines to be perfected.</hi>
+               </head>
+               <p>THat the Records of the Recovery of all Goods or Merchandizes seised for being prohibited or unaccustomed, and all Fines rated for the same shall be perfected and finish<g ref="char:EOLhyphen"/>ed by the first day of the next Term following the Term of such Recoveries had, or Fine rated, to the end the same may be drawn down into the Pipe.</p>
+            </div>
+            <div n="50" type="rules">
+               <pb n="50" facs="tcp:207745:27"/>
+               <head>L. <hi>Pleadings upon Personal Informa<g ref="char:EOLhyphen"/>tions.</hi>
+               </head>
+               <p>EVery Defendant appearing upon an Information, or <hi>Quo Warranto,</hi>
+                  <note place="margin">Plead 4 days next Term.</note> except Informati<g ref="char:EOLhyphen"/>ons of Seisure, is to plead to the same within four days of the next Term after his appearance to the same, or in default there<g ref="char:EOLhyphen"/>of, Judgment by <hi>Nihil Dicit</hi> to be entred: And where a Defen<g ref="char:EOLhyphen"/>dant being served with Process to appear to an Information, shall neglect to appear the same Term, and is taken upon Process of Contempt, retornable the fol<g ref="char:EOLhyphen"/>lowing Term,
+<note place="margin">Four days after appearance on Contempt.</note> he shall then Plead within four days after his ap<g ref="char:EOLhyphen"/>pearance.</p>
+            </div>
+            <div n="51" type="rules">
+               <pb n="51" facs="tcp:207745:27"/>
+               <head>LI. <hi>Contempts,</hi> &amp;c.</head>
+               <p>THat after an Attachment is Retorned upon any Con<g ref="char:EOLhyphen"/>tempt upon an Information, the next Process shall be an Attachment with Proclamation, and upon the Retorn thereof, a Commission of Rebellion, and then upon Motion, a Serjeant at Arms,
+<note place="margin">Same Costs at by Bill.</note> and the same Costs are to be paid upon Contempts on Informations, as is directed before upon prosecution of Eng<g ref="char:EOLhyphen"/>lish Bills.</p>
+            </div>
+            <div n="52" type="rules">
+               <pb n="52" facs="tcp:207745:28"/>
+               <head>LII. <hi>Joyning in Demurrer.</hi>
+               </head>
+               <p>WHen a Demurrer is filed, the Defendant shall Joyn in Demurrer within six days, or else Judgment by <hi>Nihil Dicit</hi> to be entred.</p>
+            </div>
+            <div n="53" type="rules">
+               <head>LIII. <hi>Informations and other Matters of Law.</hi>
+               </head>
+               <p>WHen a Replication is filed, the Defendant shall Re<g ref="char:EOLhyphen"/>joyn within four days, or else Judgment by <hi>Nihil Dicit</hi> to be entred.</p>
+            </div>
+            <div n="54" type="rules">
+               <pb n="53" facs="tcp:207745:28"/>
+               <head>LIV. <hi>Rules upon Retorns of</hi> Scire Facias.</head>
+               <p>UPon Writs of <hi>Scire Facias</hi> Retorned the last day of the Term, and upon Inquisiti<g ref="char:EOLhyphen"/>ons then Retorned, whereon Goods are seised, Rules may be given for the Defendants to appear upon such Writs of <hi>Scire Facias,</hi> and to claim the property of such Goods seised by the Sealing-day after each Term, and in default thereof, Proceedings to be had in each Case respectively, as where there are days in Term for giving such Rules.</p>
+            </div>
+            <div n="55" type="rules">
+               <pb n="54" facs="tcp:207745:29"/>
+               <head>LV. <hi>Notice of Trials.</hi>
+               </head>
+               <p>NOtice of all Trials in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Middlesex</hi> to be given six days before such Tri<g ref="char:EOLhyphen"/>als, and of Trials at Assises, no<g ref="char:EOLhyphen"/>tice to be given within six days after the the end of the Term.</p>
+            </div>
+            <div n="56" type="rules">
+               <head>LVI. <hi>Entring Judgment after Trials.</hi>
+               </head>
+               <p>UPon the Retorn of every <hi>Postea,</hi> Judgment to be entred within four days upon a Rule given, if nothing be said to the contrary, upon Trials in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Middlesex,</hi> and within the Term, Judgment to be entred of the same Term; and upon Trials at the Bar, Judgment to be entred within four days after
+<pb n="55" facs="tcp:207745:29"/>such Trial, if there be so many days in Term; and if there be less than four days in Term, then Judgment to be entred the last day of the Term.</p>
+            </div>
+            <div n="57" type="rules">
+               <head>LVII. <hi>Irregularities in Pleadings.</hi>
+               </head>
+               <p>THat all differences touch<g ref="char:EOLhyphen"/>ing Irregularities in Pro<g ref="char:EOLhyphen"/>ceedings, or upon the Rules of the Court, shall be determined by His Majesty's Remembrancer, or his Deputy, upon hearing the Attorneys on both sides, who is to settle the same if he can, and give Costs where he shall find the fault, if not, the Court to determine the same.</p>
+            </div>
+            <div n="58" type="rules">
+               <pb n="56" facs="tcp:207745:30"/>
+               <head>LVIII.</head>
+               <p>THat His Majesty's Remem<g ref="char:EOLhyphen"/>brancer or his Deputy, and the sworn Clerks in the Of<g ref="char:EOLhyphen"/>fice, do diligently attend in Court, and do give an Account touch<g ref="char:EOLhyphen"/>ing any Proceedings in Court, as they shall be required.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:207745:30"/>
+            <head>
+               <hi>Some</hi> Law Books, <hi>lately Printed for</hi> J. Walthoe <hi>at his Shop in the</hi> Middle Temple Cloysters.</head>
+            <p n="1">1. NOw Reprinted, The Lord <hi>Cokes</hi> Reports in <hi>French,</hi> with References to all the Ancient and Mo<g ref="char:EOLhyphen"/>dern Books of the Law.</p>
+            <p n="2">2. A View of the Penal Laws con<g ref="char:EOLhyphen"/>cerning Trade and Traffick, wherein is Collected all the Statutes to the end of the last Session, 1697. 12 <hi>mo.</hi> 3 <hi>s.</hi>
+            </p>
+            <p n="3">3. The <hi>Country Justice,</hi> concerning the Practice of the Justices of the Peace, in their Sessions, and out of Sessions; gathered for the better help of such Justices of Peace, as have not been much Conversant in the Study of the Laws of this Realm, by <hi>Mich Dal<g ref="char:EOLhyphen"/>ton,</hi> Esq <hi>Folio,</hi> 14 <hi>s.</hi>
+            </p>
+            <p n="4">4. Cases Argued and Decreed in the High Court of <hi>Chancery,</hi> from the 12th year of King <hi>Charles</hi> the Second, to the 31st. <hi>Folio,</hi> 12 <hi>s.</hi>
+            </p>
+            <p n="5">5. <hi>An Abridgment</hi> of all the Sta<g ref="char:EOLhyphen"/>tutes of King <hi>William</hi> and Queen <hi>Mary,</hi> 8 <hi>vo.</hi> 4 <hi>s.</hi>
+            </p>
+            <p n="6">6. The Method of Pleading by Rule and President: 1. In twelve several Branches of <hi>Abatement,</hi> and Judg<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:207745:31"/>thereon. 2. In ten General Bars to the Action. 3. Special Bars in Case, <hi>(viz.)</hi> Slander, <hi>Assumpsit,</hi> Di<g ref="char:EOLhyphen"/>sturbance, Misfeazance, Negligence, Trover, Deceit, Nusance, Rescue and Escape; with the Pleading of <hi>Uncore Prist</hi> or <hi>Adhuc Paratus.</hi> 4. Bars in <hi>Covenant,</hi> with Averments, Protesta<g ref="char:EOLhyphen"/>tions, Traverses and Pleas after the last Continuance; and also many Spe<g ref="char:EOLhyphen"/>cial Rules concerning the Bar, Repli<g ref="char:EOLhyphen"/>cation, Rejoynder, Surrejoynder, <hi>&amp;c.</hi> With particular Cases, Notes and Ar<g ref="char:EOLhyphen"/>guments, relating to the Advantage and Method in Pleading. Useful for the Clerks and Attorneys of the <hi>Kings-Bench</hi> and <hi>Common-Pleas,</hi> 8<hi>vo.</hi> 5 <hi>s.</hi>
+            </p>
+            <p n="7">7. <hi>Lex Custumaria,</hi> or <hi>A Treatise of Copyhold-Estates,</hi> in respect of the Lord and Copyholder, wherein the Na<g ref="char:EOLhyphen"/>ture of Customs in general, and of par<g ref="char:EOLhyphen"/>ticular Customs, Grants and Surrenders, and their Constructions and Expositions in reference to the thing granted or surrendred, and the Uses or Limitations of Estates are clearly illustrated, toge<g ref="char:EOLhyphen"/>ther with the manner of Declaring and Pleading, either generally, or as to particular Customs, with Trial and Evidence of Custom, and of Special Verdicts, <hi>&amp;c.</hi> 8<hi>vo.</hi> 5.</p>
+            <p n="8">
+               <pb facs="tcp:207745:31"/> 8. <hi>Tryals per Pais:</hi> Or, The Law of <hi>England</hi> concerning Juries by <hi>Nisi Prius, &amp;c.</hi> newly revived and much enlarged, with an Addition of Presi<g ref="char:EOLhyphen"/>dents and Forms of Challenges, De<g ref="char:EOLhyphen"/>murrers upon Evidence, Bills of Ex<g ref="char:EOLhyphen"/>ception, Pleas <hi>Puis le Darrein Conti<g ref="char:EOLhyphen"/>nuance, &amp;c.</hi> The Third Edition cor<g ref="char:EOLhyphen"/>rected and ammended, to which is now added a farther Treatise of Evidence, <hi>&amp;c.</hi> 8<hi>vo.</hi> 5 <hi>s.</hi>
+            </p>
+            <p n="9">9. The Practick Part of the Law; shewing the Office of an Attorney, and a Guide for Solicitors in all the Courts of <hi>Westminster,</hi> with the true manner of their Proceedings in any Actions Real, Personal or mixt, from the Ori<g ref="char:EOLhyphen"/>ginal to the Execution: Now newly set forth by the ablest Practisers of the several Courts, with an exact Table of the Principal Matters, 8<hi>vo.</hi> 5 <hi>s.</hi>
+            </p>
+            <p n="10">10. <hi>The Law of Obligations and Conditions:</hi> wherein is contained the whole Learning of the Law concerning Bills, Bonds, Conditions, Statutes, Re<g ref="char:EOLhyphen"/>cognizances and Defeazances; as also Declarations on Special Conditions, and the Pleadings thereon, Issues, Judg<g ref="char:EOLhyphen"/>ments and Executions, with many other useful Matters, digested under their proper Titles, <hi>&amp;c.</hi> 8<hi>vo.</hi> 4 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p n="11">
+               <pb facs="tcp:207745:32"/> 11. <hi>Nomo Lexicon:</hi> a Law Dictio<g ref="char:EOLhyphen"/>nary, interpreting such difficult and ob<g ref="char:EOLhyphen"/>scure Words and Terms as are found either in our Common or Statute, An<g ref="char:EOLhyphen"/>cient or Modern Laws, with Refe<g ref="char:EOLhyphen"/>rences to the several Statutes, Records, Registers, Law-Books, <hi>&amp;c.</hi> wherein the Words are used. The Second Edi<g ref="char:EOLhyphen"/>tion, with the Addition of above 600 Words, by <hi>Tho. Blunt</hi> of the <hi>Inner-Temple,</hi> Esq <hi>Folio,</hi> 10 <hi>s.</hi>
+            </p>
+            <p n="12">12. <hi>The Pleading and Aeguments</hi> (upon the <hi>Quo Warranto</hi> against the Charter of <hi>London</hi>) of Mr. <hi>Finch</hi> and Sir <hi>Robert Sawyer,</hi> the King's Solici<g ref="char:EOLhyphen"/>tor and Attorney General, and Sir <hi>George Treby,</hi> the Recorder of <hi>London,</hi> and now Lord Justice of the <hi>Common-Pleas,</hi> and the late Lord Chief Justice <hi>Pollixfen,</hi> for the said City; the whole Proceedings faithfully taken from the Records; wherein is comprized all the Learning of Corporations, whether forfeitable, how, and for what, <hi>&amp;c. Folio.</hi> 6<hi>s.</hi>
+            </p>
+            <p n="13">13. <hi>The Statutes at Large</hi> in Para<g ref="char:EOLhyphen"/>graphs and Sections, or Numbers, from <hi>Magna Charta</hi> to the end of the last Session of Parliament, <hi>May</hi> 3. 1695. in the seventh year of His Majesty King <hi>William</hi> III. in Two Volumes, 3 <hi>l.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207745:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
